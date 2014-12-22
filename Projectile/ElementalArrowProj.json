@@ -1,0 +1,11 @@
+{
+	"displayName": "Elemental Arrow Projectile",
+	"size": [ 14, 32 ],
+	"aiStyle": 1,
+	"timeLeft": 36000,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"damage": 500, 
+	"ranged": true,
+}
