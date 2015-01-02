@@ -8,7 +8,7 @@ using Terraria;
 
 namespace Elemental.Projectiles
 {
-    public class ElementalArrowProj : ElementalProjectile
+    public class ElementalArrowProj : ModProjectile
     {
         public override void AI()
         {
