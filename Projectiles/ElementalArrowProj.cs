@@ -12,7 +12,7 @@ namespace Elemental.Projectiles
     {
 	public override void AI()
 		{
-			int dust = Dust.NewDust(new Vector2((float) projectile.position.X, (float) projectile.position.Y), projectile.width, projectile.height, 6, 0, 0, 100, Color.White, 1f);
+			int dust = Dust.NewDust(new Vector2((float) projectile.position.X, (float) projectile.position.Y), projectile.width, projectile.height, 75, 0, 0, 100, Color.White, 1f);
 			Main.dust[dust].noGravity = true;
 		}
 	}

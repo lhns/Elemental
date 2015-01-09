@@ -6,7 +6,7 @@ using Terraria;
 
 namespace Elemental.Items
 {
-public class BladeofElemental : ModItem
+public class PickaxeofElemental : ModItem
 	{
 	public override void UseItemEffects(Player player, Rectangle rectangle)
 		{
