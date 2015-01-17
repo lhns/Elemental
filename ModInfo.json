@@ -1,6 +1,7 @@
 {
     "internalName" : "Elemental",
     "displayName": "Elemental!",
+	"icon": "icon",
     "author": "DryCryCrystal and LolHens",
     "info": "A world of wonders!.",
 	"version": "0.3-Alpha",
