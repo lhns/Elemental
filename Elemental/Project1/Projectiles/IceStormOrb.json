@@ -1,0 +1,13 @@
+{
+	"displayName": "Ice Storm Orb",
+	"size": [30,30],
+	"aiStyle": 2,
+	"animationType": 2,
+	"frameCount": 4,
+	"timeLeft": 100,
+	"friendly": true,
+	"hostile": false,
+	"tileCollide": true,
+	"damage": 500, 
+	"ranged": true
+}

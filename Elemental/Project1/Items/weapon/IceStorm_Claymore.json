@@ -1,0 +1,27 @@
+{
+	"displayName": "Ice Storm Claymore",
+	"size": [54,54],
+	"maxStack": 1,
+	"value": [0,0,10,0],	
+	"rare": 7,
+	"tooltip": ["'frozen solid!'"],
+	"useStyle": 1,
+	"useAnimation": 20,
+	"useTime": 20,
+	"damage": 777,
+	"knockback": 3,
+	"useSound": 1,
+	"autoReuse": true,
+	"shoot": "Elemental:IceStormOrb",
+	"shootSpeed": 7,
+	"useTurn": true,
+	"melee": true,	
+
+	
+	"recipes":
+	[{
+		"items": { "Ice Block": 1 }, 
+		"tiles": [ "Work Bench" ], 
+		"creates": 1	
+	}]
+}

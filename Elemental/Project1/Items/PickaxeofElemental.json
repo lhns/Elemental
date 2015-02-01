@@ -1,0 +1,26 @@
+{
+	"displayName": "Pickaxe of Elemental",
+	"Size": [80,80],
+	"maxStack": 1,
+	"value": [0,2,0,75],
+	"rare": 9,
+	"tooltip": "'The best pickaxe to have'",
+	"useStyle": 1,
+	"useAnimation": 10,
+	"UseTime": 7,
+	"damage": 50,
+	"knockback": 2,
+	"useSound": 1,
+	"autoReuse": true,
+	"useTurn": true,
+	"melee": true,
+	"pick": 500,
+	"channel": true,
+
+"recipes":
+	[{
+		"items": {"Dirt Block": 1,"Wood": 4 },
+		"tiles": ["Work Bench"],
+		"creates": 1
+	}]
+}
